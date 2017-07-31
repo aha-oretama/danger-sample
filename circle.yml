@@ -2,7 +2,7 @@ machine:
   node:
     version: v6.6.0
   environment:
-    DANGER_GITHUB_API_TOKEN: 943acd2bb66f583b8cc5b78fb321016ad48d691c
+    DANGER_GITHUB_API_TOKEN: aa07ce589589eda8684fde8cf94da066e0b25959
 
 test:
   override:
