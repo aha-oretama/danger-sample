@@ -1,0 +1,23 @@
+{
+  "name": "danger-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "danger":"danger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aha-oretama/danger-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aha-oretama/danger-sample/issues"
+  },
+  "homepage": "https://github.com/aha-oretama/danger-sample#readme",
+  "devDependencies": {
+    "danger": "^1.1.0"
+  }
+}
